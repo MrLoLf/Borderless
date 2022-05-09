@@ -3,18 +3,18 @@
 	"id": "deborder",
 	"version": "${version}",
 
-	"name": "Deborder",
+	"name": "Borderless",
 	"description": "Makes the Minecraft window borderless.",
 	"authors": [
-		"haykam821"
+		"Fabian Roscher"
 	],
 	"contact": {
-		"homepage": "https://github.com/haykam821/Deborder#readme",
-		"issues": "https://github.com/haykam821/Deborder/issues"
+		"homepage": "https://github.com/MrLoLf/Deborder#readme",
+		"issues": "https://github.com/MrLoLf/Deborder/issues"
 	},
 
 	"license": "MIT",
-	"icon": "assets/deborder/icon.png",
+
 
 	"environment": "client",
 	"custom": {
@@ -26,6 +26,6 @@
 	],
 
 	"depends": {
-		"fabricloader": ">=0.4.0"
+		"fabricloader": ">=0.13.3"
 	}
 }

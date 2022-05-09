@@ -1,4 +1,4 @@
-package io.github.haykam821.deborder.mixin;
+package net.mrlolf.borderless.mixin;
 
 import org.lwjgl.glfw.GLFW;
 import org.spongepowered.asm.mixin.Mixin;
